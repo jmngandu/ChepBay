@@ -4,7 +4,7 @@ export default  function Nav(){
         <>
         <nav className="nav-section">
             <div className="nav-top">
-            <h3>ChepBay</h3>
+            <h3 className="logo">ChepBay</h3>
             <input typeof="text" placeholder="Login"/>
             </div>
             <ul className="nav-bottom">
@@ -13,7 +13,6 @@ export default  function Nav(){
                 <li>Services</li>
                 <li>News</li>
                 <li>Contact</li>
-
             </ul>
             </nav>
         

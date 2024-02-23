@@ -7,9 +7,18 @@
 body{
   color: #fff;
 }
+/*NAV SECTION*/
 .nav-top{
   display: flex;
   justify-content: space-between;
+  align-items: center;
+}
+.logo{
+  font-size: 4rem;
+}
+.nav-top input{
+  height: 3rem;
+  text-align: center;
 }
 .nav-bottom{
   display: flex;
@@ -20,5 +29,27 @@ body{
   list-style-type: none;
   color: ghostwhite;
   font-size:3rem;
-  /* border-left: solid #fff; */
+}
+
+/*HERO SECTION*/
+.hero-section{
+  background-color: rebeccapurple;
+  width: 100%;
+  height: 100vh;
+}
+.home-section{
+  height: 100vh;
+  background-color:lightskyblue;
+}
+.about-section{
+  background-color:lightcoral;
+  height: 100vh;
+}
+.service-section{
+  background-color:burlywood;
+  height: 100vh;
+}
+.news-section{
+  background-color:cadetblue;
+  height: 100vh;
 }
