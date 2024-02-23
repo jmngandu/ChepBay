@@ -4,4 +4,21 @@
   padding: 2rem;
   text-align: center;
 }
-
+body{
+  color: #fff;
+}
+.nav-top{
+  display: flex;
+  justify-content: space-between;
+}
+.nav-bottom{
+  display: flex;
+  background-color: #242424;
+}
+.nav-bottom li{
+  padding:1rem;
+  list-style-type: none;
+  color: ghostwhite;
+  font-size:3rem;
+  /* border-left: solid #fff; */
+}
