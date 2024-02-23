@@ -14,7 +14,7 @@ export default function Hero(){
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium fugiat pariatur molestiae consequatur, atque laudantium eveniet excepturi quisquam deserunt ipsa facere aspernatur ex maxime. Impedit harum vel corrupti quisquam voluptate.</p>
             </div>
             <div className="service-section">
-                service
+               <h1>SERVICES WE OFFER!</h1>
             </div>
             <div className="news-section">
                 news

@@ -54,11 +54,15 @@
   width: 500px;
 }
 .about-section{
-  background-color:#fff;
+  background-image: url(/src/assets/aboutimg.jpeg);
+  background-size: cover;
   height: 100vh;
+ background-position:center;
+ padding: 1rem 10rem 10rem 10rem;
+ color:burlywood;
 }
 .service-section{
-  background-color:burlywood;
+  background-color:beige;
   height: 100vh;
 }
 .news-section{
