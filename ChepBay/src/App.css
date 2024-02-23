@@ -40,6 +40,7 @@ body{
 .home-section{
   height: 100vh;
   background-color:lightskyblue;
+  background-color:darkgrey;
 }
 .about-section{
   background-color:lightcoral;

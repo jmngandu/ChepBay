@@ -5,7 +5,7 @@ export default  function Nav(){
         <nav className="nav-section">
             <div className="nav-top">
             <h3 className="logo">ChepBay</h3>
-            <input typeof="text" placeholder="Login"/>
+            <input typeof="search" placeholder="Login"/>
             </div>
             <ul className="nav-bottom">
                 <li>Home</li>
