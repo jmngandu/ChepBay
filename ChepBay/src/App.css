@@ -65,17 +65,20 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  background-color: lightgray;
   
 }
 .service-card{
   width: 200px;
   background-color: #fff;
   margin: 1rem;
+  border-radius: 1rem;
 }
 .bold{
   font-weight: bold;
 }
 .service-image{
+  border-radius: 1rem;
   width:100%;
 }
 .news-section{
