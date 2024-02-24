@@ -61,9 +61,22 @@
  padding: 1rem 10rem 10rem 10rem;
  color:burlywood;
 }
-.service-section{
-  background-color:beige;
-  height: 100vh;
+.service-area{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+}
+.service-card{
+  width: 200px;
+  background-color: #fff;
+  margin: 1rem;
+}
+.bold{
+  font-weight: bold;
+}
+.service-image{
+  width:100%;
 }
 .news-section{
   background-color:cadetblue;
