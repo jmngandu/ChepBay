@@ -53,17 +53,17 @@
   width: 500px;
 }
 .about-section {
-  background-image: url(/src/assets/aboutimg.jpeg);
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.5),
+      rgba(255, 255, 255, 0.5)
+    ),
+    url(/src/assets/aboutimg.jpeg);
   background-size: cover;
   height: 100vh;
   background-position: center;
   padding: 1rem 10rem 10rem 10rem;
   color: burlywood;
   color: #242424;
-  opacity: 0.6;
-}
-.about-section img {
-  display: none;
 }
 .service-area {
   display: flex;
