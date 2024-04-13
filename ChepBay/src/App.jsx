@@ -1,18 +1,17 @@
-import { useState } from 'react'
-import './App.css'
-import Nav from './Components/Nav'
-import Hero from './Components/Hero'
-import Service from './Service'
-import data from './Components/data'
+import { useState } from "react";
+import "./App.css";
+import Nav from "./Components/Nav";
+import Hero from "./Components/Hero";
+import Service from "./Service";
+import data from "./Components/data";
 
 function App() {
-
   return (
     <>
-     <Nav/>
-     <Hero/>
+      <Nav />
+      <Hero />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
