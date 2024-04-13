@@ -6,85 +6,83 @@
 }
 
 /*NAV SECTION*/
-.nav-top{
+.nav-top {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.logo{
+.logo {
   font-size: 4rem;
 }
-.nav-top input{
+.nav-top input {
   height: 3rem;
   text-align: center;
 }
-.nav-bottom{
+.nav-bottom {
   display: flex;
   background-color: #242424;
   justify-content: space-between;
   padding-right: 1rem;
 }
-.nav-list{
+.nav-list {
   display: flex;
-
 }
-.nav-bottom li{
-  padding:1rem;
+.nav-bottom li {
+  padding: 1rem;
   list-style-type: none;
   color: ghostwhite;
-  font-size:3rem;
+  font-size: 3rem;
 }
 
 /*HERO SECTION*/
-.hero-section{
+.hero-section {
   background-color: rebeccapurple;
   width: 100%;
   height: 100vh;
   color: #242424;
 }
-.home-section{
+.home-section {
   height: 100vh;
-  background-color:darkgrey;
+  background-color: darkgrey;
   display: flex;
   align-items: center;
   justify-content: space-around;
   flex-wrap: wrap;
 }
-.home-img{
+.home-img {
   width: 500px;
 }
-.about-section{
+.about-section {
   background-image: url(/src/assets/aboutimg.jpeg);
   background-size: cover;
   height: 100vh;
- background-position:center;
- padding: 1rem 10rem 10rem 10rem;
- color:burlywood;
+  background-position: center;
+  padding: 1rem 10rem 10rem 10rem;
+  color: burlywood;
 }
-.service-area{
+.service-area {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   background-color: lightgray;
-  
 }
-.service-card{
+.service-card {
   width: 200px;
   background-color: #fff;
   margin: 1rem;
   border-radius: 1rem;
 }
-.bold{
+.bold {
   font-weight: bold;
 }
-.boldl{
+.boldl {
   color: coral;
 }
-.service-image{
+.service-image {
   border-radius: 1rem;
-  width:100%;
+  width: 100%;
 }
-.news-section{
-  background-color:cadetblue;
+.news-section {
+  background-color: cadetblue;
   height: 100vh;
 }
