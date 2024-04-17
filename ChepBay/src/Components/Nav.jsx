@@ -9,11 +9,11 @@ export default function Nav() {
         </div>
         <div className="nav-bottom">
           <ul className="nav-list">
-            {/* <li>Home</li>
+            <li>Home</li>
             <li>About</li>
             <li>Services</li>
             <li>News</li>
-            <li>Contact</li> */}
+            <li>Contact</li>
           </ul>
           <h4>Cart</h4>
         </div>
