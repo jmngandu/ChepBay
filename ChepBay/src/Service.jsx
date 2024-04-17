@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Service(props) {
   return (
-    <>
+    // <>
       <div className="service-card">
         <img
           src={`src/assets/images/${props.displayImg}`}
