@@ -35,12 +35,12 @@ export default function Hero(props) {
             Impedit harum vel corrupti quisquam voluptate.
           </p>
         </div>
-        <div className="Services-section">
+        {/* <div className="Services-section">
           <h1>SERVICES WE OFFER!</h1>
           <div className="service-area">{dataSet}</div>
         </div>
         <div className="news-section">news</div>
-      </div>
+      </div> */}
     </>
   );
 }
