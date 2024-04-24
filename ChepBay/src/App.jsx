@@ -8,8 +8,8 @@ import data from "./Components/data";
 function App() {
   return (
     <>
-      {/* <Nav />
-      <Hero /> */}
+      <Nav />
+      <Hero />
     </>
   );
 }
